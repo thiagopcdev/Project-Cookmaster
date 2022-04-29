@@ -18,7 +18,7 @@
 
 ---
 
-Desenvolver este app utilizando a arquitetura MSC!
+Desenvolvi este app utilizando a arquitetura MSC!
 
 Neste projeto é possível fazer o cadastro e login de pessoas usuárias, onde apenas essas pessoas poderão acessar, modificar e deletar as receitas que cadastrou.
 
@@ -170,3 +170,17 @@ Crie um arquivo `seed.js` na raiz do projeto com uma query do Mongo DB capaz de 
   ```
 
 #### 14 - Crie testes de integração que cubram no mínimo 90% dos arquivos em `src`, com um mínimo de 150 linhas cobertas
+
+---
+
+### To run:
+
+1. Clone the repository
+  * `git clone git@github.com:thiagopcdev/Project-Cookmaster.git`
+2. Enter the repository folder you just cloned:
+  * `cd SD-012-COOKMASTER`
+3. Install the dependencies:
+  * `npm install`
+4. Run the program:
+  * `npm start`
+
